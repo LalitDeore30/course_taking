@@ -36,7 +36,7 @@ textarea {
   height: 100px;
 }
 .Submit {
-  background-color: #8e44ad;
+  background-color: #007bff;
   color: white;
   border: none;
   padding: 10px 20px;
@@ -46,7 +46,7 @@ textarea {
   margin-top: 10px;
 }
 .create_playlist button:hover {
-  background-color: #732d91;
+  background-color: #007bff;
 }
 #videoThumbnails {
   margin-top: 10px;
