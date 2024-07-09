@@ -663,23 +663,87 @@ section{
    gap: 1.5rem;
 }
 
-.reviews .box-container .box .student img{
-   height: 5rem;
-   width: 5rem;
-   object-fit: cover;
-   border-radius: 50%;
-}
-
-.reviews .box-container .box .student h3{
-   font-size: 2rem;
-   color: var(--black);
-   margin-bottom: .3rem;
-}
-
-.reviews .box-container .box .student .stars{
-   font-size: 1.5rem;
-   color:var(--orange);
-}
+#review {
+  
+   font-family: 'Nunito', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f0f0f0;
+      overflow: hidden; 
+    }
+    
+    .reviews-container {
+      margin-left: 9rem;
+      overflow: hidden;
+      width: 80%;
+      max-width: 1000px;
+      perspective: 1000px;
+    }
+    
+    .reviews-slider {
+      display: flex;
+      animation: scroll 30s linear infinite;
+    }
+    
+    @keyframes scroll {
+      0% {
+        transform: translateX(0);
+      }
+      100% {
+        transform: translateX(calc(-250px * 3 * 2)); /* Adjust based on the number of reviews and their width */
+      }
+    }
+    
+    .reviews-container:hover .reviews-slider,
+    .reviews-container:active .reviews-slider {
+      animation-play-state: paused;
+    }
+    
+    .box {
+      min-width: 250px;
+      margin: 0 15px;
+      padding: 20px;
+      background-color: white;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+      transform: rotateY(10deg);
+      transition: transform 0.5s ease;
+    }
+    
+    .box:hover {
+      transform: rotateY(0deg) scale(1.05);
+    }
+    
+    .student {
+      display: flex;
+      align-items: center;
+      margin-top: 15px;
+    }
+    
+    .student img {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      margin-right: 15px;
+    }
+    
+    .stars i {
+      color: #f39c12;
+    }
+    
+    .box p {
+      font-size: 14px;
+      color: #333;
+    }
+    
+    h3 {
+      margin: 0;
+      font-size: 18px;
+      color: #333;
+    }
+    
 
 .courses .box-container{
    display: grid;
@@ -1666,7 +1730,7 @@ section{
 }
 
 .Submit {
-   background-color: #8e44ad;
+   background-color: #007bff;
    color: white;
    border: none;
    padding: 10px 20px;
@@ -1686,4 +1750,6 @@ section{
    margin-left: 3rem;
    padding-right: 2rem;
  }
+
+
  
