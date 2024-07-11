@@ -134,11 +134,7 @@ mongoose.connect('mongodb://localhost:27017/videoPlaylist', {
 
 // Serve main page and user page
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, '../frontend/Admin.html'));
-});
-
-app.get('/home1', (req, res) => {
-    res.sendFile(path.join(__dirname, '../frontend/home1.html'));
+    res.sendFile(path.join(__dirname, '../Frontend/home1.html'));
 });
 
 app.get('/home', (req, res) => {

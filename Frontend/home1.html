@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/user.css" />
     <link rel="stylesheet" href="css/Admin_teacher.css" />
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
   </head>
   <body>
     <header class="header">
@@ -97,31 +98,19 @@
       <h2>Please login first.</h2>
     </div>
 
-    <section class="home-grid">
-      <h1 class="heading">quick options</h1>
-
-      <div class="box-container">
-        <div class="box">
-          <h3 class="title">popular topics</h3>
-          <div class="flex">
-            <a href="#"><i class="fab fa-html5"></i><span>HTML</span></a>
-            <a href="#"><i class="fab fa-css3"></i><span>CSS</span></a>
-            <a href="#"><i class="fab fa-js"></i><span>javascript</span></a>
-            <a href="#"><i class="fab fa-react"></i><span>react</span></a>
-            <a href="#"><i class="fab fa-php"></i><span>PHP</span></a>
-            <a href="#"><i class="fab fa-php"></i><span>PHP</span></a>
-            <a href="#"><i class="fab fa-php"></i><span>PHP</span></a>
-            <a href="#"><i class="fab fa-php"></i><span>PHP</span></a>
-            <a href="#"><i class="fab fa-php"></i><span>PHP</span></a>
-            <a href="#"><i class="fab fa-php"></i><span>PHP</span></a>
-            <a href="#"><i class="fab fa-php"></i><span>PHP</span></a>
-            <a href="#"><i class="fab fa-php"></i><span>PHP</span></a>
-
-            <a href="#"
-              ><i class="fab fa-bootstrap"></i><span>bootstrap</span></a
-            >
-          </div>
-        </div>
+    <section class="home" id="home">
+      <div class="home-img">
+        <img src="images/home_page.png" alt="" />
+      </div>
+      <div class="home-content heading">
+        <h3>Hello Learners<span class="wave">👋</span></h3>
+        <h3>And Welcome <span class="multiple-text"></span></h3>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor non
+          perferendis, voluptate vitae porro quo et saepe nesciunt animi quis
+          adipisci nulla laborum architecto. Adipisci assumenda iusto mollitia
+          libero expedita?
+        </p>
       </div>
     </section>
 
@@ -273,6 +262,7 @@
           }
         });
 
+        // Adjust visibility to show only the top 4 matching results
         playlists.forEach((playlist, index) => {
           if (playlist.style.display === "block" && visibleCount > 4) {
             if (index >= 4) {
@@ -282,20 +272,7 @@
         });
       }
     </script>
-    <script>
-      document.addEventListener("DOMContentLoaded", async () => {
-        try {
-          const response = await fetch("profile.html");
-          const profileHtml = await response.text();
-          const profileContainer = document.querySelector(".profile-container");
-          if (profileContainer) {
-            profileContainer.innerHTML = profileHtml;
-          }
-        } catch (error) {
-          console.error("Error including profile HTML:", error);
-        }
-      });
-    </script>
+
     <script>
       // JavaScript to fetch and display profiles
 
@@ -335,6 +312,20 @@
         });
       }
     </script>
+    <script>
+      // Function to initialize Typed.js with dynamic profile name and roles
+
+      var type = new Typed(".multiple-text", {
+        strings: ["Professional"],
+        typeSpeed: 100,
+        backSpeed: 100,
+        backDelay: 1000,
+        loop: true,
+      });
+
+      loadProfile();
+    </script>
+
     <script src="js/script.js"></script>
   </body>
 </html>
