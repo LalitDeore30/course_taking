@@ -65,3 +65,25 @@ https://github.com/user-attachments/assets/b64134d9-0e97-4d40-885e-4853004eb077
   <img src="<img width="1434" alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/56f733f2-4fdc-49d0-9f92-8d501cb80a79">
 " alt="Chat Feature" width="300"/>
 </p>
+
+
+
+
+
+
+
+<p align="center">
+<img width="1434" alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/6ebe54cd-a95c-46d1-a029-66fd7967b4d8">
+
+<img width="1432" alt="Screenshot 2024-07-12 at 10 14 09 AM" src="https://github.com/user-attachments/assets/4d08b102-038e-4c65-af86-b453bd71c97d">
+
+
+<img width="1425" alt="Screenshot 2024-07-12 at 10 15 36 AM" src="https://github.com/user-attachments/assets/78422c1d-b53e-4e6d-bc8c-7343bdbf94da">
+</p>
+
+
+
+
+
+
+
