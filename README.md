@@ -64,15 +64,15 @@ https://github.com/user-attachments/assets/b64134d9-0e97-4d40-885e-4853004eb077
 
 ## 📸 Screenshots
 <p align="center">
-<img width="300" alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/6ebe54cd-a95c-46d1-a029-66fd7967b4d8">
-<img width="300" alt="Screenshot 2024-07-12 at 10 14 09 AM" src="https://github.com/user-attachments/assets/4d08b102-038e-4c65-af86-b453bd71c97d">
-<img width="300" alt="Screenshot 2024-07-12 at 10 15 36 AM" src="https://github.com/user-attachments/assets/78422c1d-b53e-4e6d-bc8c-7343bdbf94da">
+<img width="300" height="250" alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/6ebe54cd-a95c-46d1-a029-66fd7967b4d8">
+<img width="300" height="250" alt="Screenshot 2024-07-12 at 10 14 09 AM" src="https://github.com/user-attachments/assets/4d08b102-038e-4c65-af86-b453bd71c97d">
+<img width="300" height="250" alt="Screenshot 2024-07-12 at 10 15 36 AM" src="https://github.com/user-attachments/assets/78422c1d-b53e-4e6d-bc8c-7343bdbf94da">
 <img width="300" height="500" alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/de28f592-14e5-47f8-a0d7-54620d2ecbe3">
 <img width="300" height="500" alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/68c75746-e9ca-4b42-927d-9bd4a2abb753">
 <img width="300" height="500" alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/08bb1b5a-e72b-42db-b029-bb5f7d47b9b1">
-<img width="300" alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/a264bae5-ad47-4cdb-a0f1-f4647afce433">
-<img width="300" alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/0163b1e8-4072-435f-849f-4c9dbed9287b">
-<img width="300" alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/6b6bfc2d-c218-4784-a736-7d05fe039ed4">
+<img width="300" height="250" alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/a264bae5-ad47-4cdb-a0f1-f4647afce433">
+<img width="300" height="250" alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/0163b1e8-4072-435f-849f-4c9dbed9287b">
+<img width="300" height="250" alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/6b6bfc2d-c218-4784-a736-7d05fe039ed4">
 </p>
 
 
