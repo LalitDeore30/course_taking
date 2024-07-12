@@ -126,19 +126,22 @@ app.use('/api', apiRoutes);
 app.use('/api2', apiRoutes2);
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 app.use(express.static(path.join(__dirname, '../frontend')));
+app.use(express.static(path.join(__dirname, '../frontend/css')));
 
 mongoose.connect('mongodb://localhost:27017/videoPlaylist', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 });
 
-// Serve main page and user page
-app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, '../Frontend/home1.html'));
-});
+
+
 
 app.get('/home', (req, res) => {
     res.sendFile(path.join(__dirname, '../frontend/home.html'));
+});
+
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, '../frontend/home1.html'));
 });
 
 app.get('/user', (req, res) => {
