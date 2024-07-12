@@ -126,6 +126,7 @@ app.use('/api', apiRoutes);
 app.use('/api2', apiRoutes2);
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 app.use(express.static(path.join(__dirname, '../frontend')));
+app.use(express.static(path.join(__dirname, '../frontend/css')));
 
 mongoose.connect('mongodb://localhost:27017/videoPlaylist', {
     useNewUrlParser: true,
