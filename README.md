@@ -56,3 +56,12 @@ https://github.com/user-attachments/assets/1fd91133-8c50-40e8-810d-66a119d294cb
 ### Chatting And Videocall Functionality
 https://github.com/user-attachments/assets/b64134d9-0e97-4d40-885e-4853004eb077
 
+
+<p align="center">
+  <img src="![home1](https://github.com/user-attachments/assets/06baf225-9584-4d7a-a153-3e8d85f0bdde)
+" alt="User Dashboard" width="300"/>
+  <img src="<img width="1432" alt="Screenshot 2024-07-12 at 10 14 09 AM" src="https://github.com/user-attachments/assets/e8d1982f-6a97-4439-b706-af8082ecc01f">
+" alt="Course Page" width="300"/>
+  <img src="<img width="1434" alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/56f733f2-4fdc-49d0-9f92-8d501cb80a79">
+" alt="Chat Feature" width="300"/>
+</p>
