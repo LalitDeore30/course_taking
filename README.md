@@ -84,9 +84,8 @@ https://github.com/user-attachments/assets/b64134d9-0e97-4d40-885e-4853004eb077
 <img width="300" height="250 alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/5fdfc954-c8aa-4c9e-acb1-cb7a3c5e95a9">
 </p>
 <p align="center">
-<img width="300" height="500 alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/8e79984f-a00b-4e5f-a29e-8133a93714bc">
-<img width="300" height="500 alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/83f337a7-a6c1-492f-a43e-c9cc5b0a2d8f">
 <img width="300" height="500 alt="Screenshot 2024-07-12 at 10 13 51 AM" src="https://github.com/user-attachments/assets/afed645c-26ac-4086-a0e2-017705b51e3f">
+
 </p>
 
 
